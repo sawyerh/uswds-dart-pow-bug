@@ -1,0 +1,15 @@
+{
+  "name": "uswds-dart-debugging",
+  "version": "1.0.0",
+  "description": "1. [Install Dart Sass](https://sass-lang.com/install) (not the Node.js version!)    ```    brew install sass/sass/sass    ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uswds": "^2.11.2"
+  }
+}

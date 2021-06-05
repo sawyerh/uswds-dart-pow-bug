@@ -1,0 +1,6 @@
+// Using sass:math, in place of the USWDS pow() function, works.
+// @use "sass:math" as *;
+
+$theme-color-primary: #ff0000;
+
+@import "./node_modules/uswds/dist/scss/uswds.scss";
