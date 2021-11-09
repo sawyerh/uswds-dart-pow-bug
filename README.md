@@ -8,7 +8,10 @@
    ```
    npm install
    ```
-1. Attempt to compile the Sass file
+1. Attempt to compile the Sass file:
+   ```
+   sass test.scss
+   ```
 1. You'll see an error like:
    ```sh
    Error: Infinity or NaN toInt
